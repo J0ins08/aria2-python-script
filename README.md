@@ -19,9 +19,9 @@
 
 - 在complete.py中打开或关闭消息推送
 
-`#push2bark(get_contents())            #默认关闭，打开删除前面的"#"。`
+`#push2bark(get_contents())                   #默认关闭，打开删除前面的"#"。`
 
-`#push2serverchen(get_contents())      #默认关闭，打开删除前面的"#"。`
+`#push2serverchen(get_contents())        #默认关闭，打开删除前面的"#"。`
 
 - 配置aria2.conf
 
